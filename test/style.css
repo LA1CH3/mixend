@@ -1,0 +1,13 @@
+/*
+
+mixend - a list of useful sass mixins and functions compiled into one partial
+
+Built-in Sass Functions:
+http://sass-lang.com/documentation/Sass/Script/Functions.html 
+
+*/
+@media screen and (min-width: 768px) {
+  h1 {
+    color: blue; } }
+
+/*# sourceMappingURL=style.css.map */

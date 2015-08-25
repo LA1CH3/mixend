@@ -1,0 +1,7 @@
+@import "../_mixend.scss";
+
+@include media('min', 768px){
+	h1 {
+		color: blue;
+	}
+}
